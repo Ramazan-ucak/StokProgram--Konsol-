@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.exe.config
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.exe
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.pdb
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.exe
+C:\Users\admin\source\repos\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.pdb
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.exe.config
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.exe
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\bin\Debug\7Aralik_Power_Puff_Ticaret.pdb
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.csproj.AssemblyReference.cache
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.csproj.SuggestedBindingRedirects.cache
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.csproj.CoreCompileInputs.cache
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.exe
+D:\C-kod\7Aralik_Power_Puff_Ticaret\7Aralik_Power_Puff_Ticaret\obj\Debug\7Aralik_Power_Puff_Ticaret.pdb
